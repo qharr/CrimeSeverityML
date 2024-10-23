@@ -1,3 +1,2 @@
 # LA-Crime-Severity-ML
-## Adding project .html file here by end of day.
-## Check back here tomorrow!
+Redirect to[qharr.github.io/CrimeSeverityML](https://qharr.github.io/CrimeSeverityML/)
